@@ -19,6 +19,8 @@ namespace CsTraning
 			}
 
             Console.WriteLine("Hello World!");
+
+            var tes = new Problem2();
         }
     }
 }

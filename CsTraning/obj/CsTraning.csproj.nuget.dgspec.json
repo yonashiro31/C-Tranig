@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\teruki.yonashiro31\\source\\repos\\CsTraning\\CsTraning\\CsTraning.csproj": {}
+    "C:\\git traning\\C-Tranig\\CsTraning\\CsTraning.csproj": {}
   },
   "projects": {
-    "C:\\Users\\teruki.yonashiro31\\source\\repos\\CsTraning\\CsTraning\\CsTraning.csproj": {
+    "C:\\git traning\\C-Tranig\\CsTraning\\CsTraning.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\teruki.yonashiro31\\source\\repos\\CsTraning\\CsTraning\\CsTraning.csproj",
+        "projectUniqueName": "C:\\git traning\\C-Tranig\\CsTraning\\CsTraning.csproj",
         "projectName": "CsTraning",
-        "projectPath": "C:\\Users\\teruki.yonashiro31\\source\\repos\\CsTraning\\CsTraning\\CsTraning.csproj",
+        "projectPath": "C:\\git traning\\C-Tranig\\CsTraning\\CsTraning.csproj",
         "packagesPath": "C:\\Users\\teruki.yonashiro31\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\teruki.yonashiro31\\source\\repos\\CsTraning\\CsTraning\\obj\\",
+        "outputPath": "C:\\git traning\\C-Tranig\\CsTraning\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

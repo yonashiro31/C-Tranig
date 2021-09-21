@@ -11,3 +11,16 @@ C:\Users\teruki.yonashiro31\source\repos\CsTraning\CsTraning\bin\Debug\netcoreap
 C:\Users\teruki.yonashiro31\source\repos\CsTraning\CsTraning\obj\Debug\netcoreapp3.1\CsTraning.dll
 C:\Users\teruki.yonashiro31\source\repos\CsTraning\CsTraning\obj\Debug\netcoreapp3.1\CsTraning.pdb
 C:\Users\teruki.yonashiro31\source\repos\CsTraning\CsTraning\obj\Debug\netcoreapp3.1\CsTraning.genruntimeconfig.cache
+C:\git traning\C-Tranig\CsTraning\bin\Debug\netcoreapp3.1\CsTraning.exe
+C:\git traning\C-Tranig\CsTraning\bin\Debug\netcoreapp3.1\CsTraning.deps.json
+C:\git traning\C-Tranig\CsTraning\bin\Debug\netcoreapp3.1\CsTraning.runtimeconfig.json
+C:\git traning\C-Tranig\CsTraning\bin\Debug\netcoreapp3.1\CsTraning.runtimeconfig.dev.json
+C:\git traning\C-Tranig\CsTraning\bin\Debug\netcoreapp3.1\CsTraning.dll
+C:\git traning\C-Tranig\CsTraning\bin\Debug\netcoreapp3.1\CsTraning.pdb
+C:\git traning\C-Tranig\CsTraning\obj\Debug\netcoreapp3.1\CsTraning.csprojAssemblyReference.cache
+C:\git traning\C-Tranig\CsTraning\obj\Debug\netcoreapp3.1\CsTraning.AssemblyInfoInputs.cache
+C:\git traning\C-Tranig\CsTraning\obj\Debug\netcoreapp3.1\CsTraning.AssemblyInfo.cs
+C:\git traning\C-Tranig\CsTraning\obj\Debug\netcoreapp3.1\CsTraning.csproj.CoreCompileInputs.cache
+C:\git traning\C-Tranig\CsTraning\obj\Debug\netcoreapp3.1\CsTraning.dll
+C:\git traning\C-Tranig\CsTraning\obj\Debug\netcoreapp3.1\CsTraning.pdb
+C:\git traning\C-Tranig\CsTraning\obj\Debug\netcoreapp3.1\CsTraning.genruntimeconfig.cache

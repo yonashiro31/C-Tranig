@@ -78,17 +78,19 @@ namespace CsTraning.Problem
             Console.WriteLine();
         }
         // ある数が素数かどうかを判定するメソッドを作成しなさい。
-        static bool Problem6_7(int value)
+        public bool Problem6_7(int value)
         {
-            if (value <= 3)
-                return true;
+            // 1000未満を受け付ける
+            if (value > 1000) return false;
 
-            for (int count = 2; count <= (value / 2); count++)
-                if (0 != (value % count))
+            for (int n = 2; n * n <= value; n++)
+			{
+                if (value % n == 0)
                 {
-                    return true;
-                };
-            return false;
+                    return false;
+                }
+			}
+            return true;
         }
     }
 }
